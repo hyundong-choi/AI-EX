@@ -36,7 +36,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run Update Python Script 
       run: |
-        python utils/count_files.py
+        python Util/count_files.py
     - name: Run Update README.md File
       run: |
         git add .
