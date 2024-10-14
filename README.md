@@ -19,6 +19,7 @@
 </div>
 
 <div align=center>
+
 ![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![js](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
