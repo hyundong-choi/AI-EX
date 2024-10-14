@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
 
 # 충북대학교 산업인공지능학과 AI-Ex 포트폴리오
 
