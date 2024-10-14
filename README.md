@@ -17,6 +17,7 @@
    - 지능화 파일럿 프로젝
    - INDAI 콜로키움 2024
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
